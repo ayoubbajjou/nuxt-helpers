@@ -1,2 +1,2 @@
 # nuxt-helpers
-A small nuxtjs 📦 helpers based on lodash 🥳
+A small nuxtjs 📦 helpers based on lodash package 🥳
